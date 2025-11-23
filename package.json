@@ -1,5 +1,5 @@
 {
-  "name": "ecpay_aio_nodejs",
+  "name": "funpoint_aio_nodejs",
   "version": "1.0.0",
   "description": "綠界全方位金流串接用SDK",
   "main": "index.js",
